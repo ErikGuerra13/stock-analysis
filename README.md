@@ -8,6 +8,7 @@
 
 # Results 
 - In this project we learned how to refactor our code that we used in the modules to better fit the needs for this project. By doing this we were able to write better code that performed faster when dealing with a larger amount of data. The code in the example below is one of the key differences that allowed us to achieve this by allowing our macro to run through all the cells in our spreadsheet, it increased performace and will also provide better scalability. 
+-
 ![](Resources/VBA example 1.PNG)
 ![](Resources/VBA example 2.PNG)
 
