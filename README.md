@@ -21,6 +21,7 @@
 ![](Resources/Refractored Run time 2017.PNG)
 
 - One of my favorite features in our macro is the formatting of the results when you run the macro. I believe this is extremely important because it makes the data easier to read for Steve and his parents. 
+
 ![](Resources/VBA_Challenge_2017.PNG)
 ![](Resources/VBA_Challenge_2018.PNG)
 
