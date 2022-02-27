@@ -9,16 +9,16 @@
 # Results 
 - In this project we learned how to refactor our code that we used in the modules to better fit the needs for this project. By doing this we were able to write better code that performed faster when dealing with a larger amount of data. The code in the example below is one of the key differences that allowed us to achieve this by allowing our macro to run through all the cells in our spreadsheet, it increased performace and will also provide better scalability. 
 -
-![](Resources/VBA example 1.PNG)
-![](Resources/VBA example 2.PNG)
+![](Resources/VBA_example_1.PNG)
+![](Resources/VBA_example_2.PNG)
 
 - As soon in the results below you can also see that our refactored code performed much faster than our original macro. When I run both macros on my computer there is a noticable difference. Running our original macro there is a pause where my computer is loading but with our refactored macro it is almost instant. 
 
 - Orignal macro run time for 2017 sheet
-![](Resources/Original Run time 2017.PNG)
+![](Resources/Original_Run_time_2017.PNG)
 
 - Refactored macro run time for 2017 sheet
-![](Resources/Refractored Run time 2017.PNG)
+![](Resources/Refractored_Run_time_2017.PNG)
 
 - One of my favorite features in our macro is the formatting of the results when you run the macro. I believe this is extremely important because it makes the data easier to read for Steve and his parents. 
 
